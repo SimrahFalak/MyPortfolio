@@ -40,7 +40,8 @@ import {
     orderain,
     snail,
     Vision,
-    StreamEase
+    StreamEase,
+    formaty
   } from "../assets";
   
   const navLinks = [
@@ -191,6 +192,18 @@ import {
         "Collaborate with classmates, including designers and backend developers, to create scalable and visually appealing projects.",
         "Implement responsive, interactive user interfaces, prioritizing user experience and modern design principles.",
         "Participate in competitions and hackathons, and secured Second Prize in 'Full Stack Frenzy' at Teknofest Pakistan, held at the Expo Center, Karachi.",
+      ],
+    },
+    {
+      title: "Product Designer",
+      company_name: "Formaty",
+      icon: formaty,
+      iconBg: "#383E56",
+      date: "February 2025 - Present",
+      points: [
+        "Work as a Product Designer at Formaty, focusing on UX/UI research, wireframing, and high-fidelity prototyping to enhance the platform’s usability and aesthetics.",
+        "Collaborate with developers and stakeholders to design intuitive interfaces, ensuring seamless user interactions and modern design consistency.",
+        "Conduct user research, empathy mapping, and usability testing to refine product features based on user needs and feedback.",
       ],
     },
     
